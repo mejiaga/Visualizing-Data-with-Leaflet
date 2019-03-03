@@ -1,0 +1,2 @@
+const newLocal = "pk.eyJ1IjoidmxhZGltaXIxMzc2IiwiYSI6ImNqc3M3bHhycDFxN3M0NHQ5cnY3OWdtcmoifQ.gG7qohLuJSgADRGRwynJ7A";
+const API_KEY = newLocal
